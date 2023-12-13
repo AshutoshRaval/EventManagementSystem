@@ -51,12 +51,14 @@ The purpose of this database is to centralize data systems for efficient event m
    - Each employee has its role and each employee has as cost associated with it and its start and end time.
    - Each employee can be engaged in multiple shows.
 
-PowerBI Report Implemtation
+**PowerBI Report Implemtation**
 
 1) The Table visual spans accors the entire dataset and comprises the essestial columns to get he quick status of any show.
 2) The Piechart visual reperesnts the number and type of equipment required in the show.
 3) The Cluster bar chart signifies the event type and number of shows organized by an organizer.
 4) Line Chart implies the Particapants for a show in an specific year.
+5) Dynamic filtering using the silcers which as associated with multiple columns in the various section of database
+6) The Card visual give you and idea about the shows and Total and estimated cost associated with it.
 
    
 
