@@ -24,10 +24,11 @@ The purpose of this database is to centralize data systems for efficient event m
 3) Columns level check
 4) stored procedures
 5) Cursors
-6) 3rd Normalized Database
-7) Tables Joins
-8) PowerBI Report
-9) Dynamic Filtering using multiple columns 
+6) Column encryption
+7) 3rd Normalized Database
+8) Tables Joins
+9) PowerBI Report
+10) DAX, Calculated Coloum and dynamic Filtering using multiple columns 
 
 **File attached in the Repository**
 1) SQL file for database implementation
@@ -42,7 +43,14 @@ The purpose of this database is to centralize data systems for efficient event m
      organisers and events
    - Each event has event type and each event can be associated with multiple shows
 3) For the Shows Section
-4) 
+   - The Shows section is further divided into two parts 1st is the participants in the show and the 2nd is the equipment required in the show.
+   - Each show has multiple particapants
+   - Each show requires multiple equipments also each equipment has a its type and cost associated with it.
+   - Each Show can have multiple employee to handle different tasks and each employee has a cost associated with it
+4) For the Employee section
+   - Each employee has its role and each employee has as cost associated with it and its start and end time.
+   - Each employee can be engaged in multiple shows.
+
    
 
 
