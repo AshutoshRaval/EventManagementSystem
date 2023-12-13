@@ -21,7 +21,7 @@ The purpose of this database is to centralize data systems for efficient event m
 **Highlights**
 1) Customized Views
 2) Table Level level check Function
-3) Columns level check
+3) Column level check
 4) stored procedures
 5) Cursors
 6) Column encryption
@@ -37,7 +37,7 @@ The purpose of this database is to centralize data systems for efficient event m
 4) Business Logic
 
 **Flow of the project**
-1) There are 3 Main section of the project 1st is the Events section, 2nd is the Shows section and 3rd is the employee section
+1) There are 3 Main section of the project 1st is the Events section. 2nd is the Shows section, and 3rd is the employee section
 2) For the Events section
    - Each organizer has its name, details and role which is then associate to an event using and bridge table is_organzier as there can be many to many relation between 
      organisers and events
@@ -53,14 +53,14 @@ The purpose of this database is to centralize data systems for efficient event m
 
 **PowerBI Report Implemtation**
 
-1) The Table visual spans accors the entire dataset and comprises the essestial columns to get he quick status of any show.
+1) The Table visual spans accors the entire dataset and comprises the essestial columns to get quick status of any show.
 2) The Piechart visual reperesnts the number and type of equipment required in the show.
 3) The Cluster bar chart signifies the event type and number of shows organized by an organizer.
 4) Line Chart implies the Particapants for a show in an specific year.
 5) Dynamic filtering using the silcers which as associated with multiple columns in the various section of database
 6) The Card visual give you and idea about the shows and Total and estimated cost associated with it.
 
-**Below are the snapshots of the powerBI report**
+**Below are snapshots of the PowerBI report.**
 
 **Dashboard**
 </br>
@@ -81,4 +81,4 @@ The purpose of this database is to centralize data systems for efficient event m
 - It changes the background color of cell according to the cost.
 <img width="772" alt="PowerBI_EventManagement_CF" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/3c749bef-b12d-4cda-b9cd-dcc3bd4bd47a">
 
-For more details and queries please contact on ashutosh.raval@outlook.com
+For further details or inquiries, please contact me at ashutosh.raval@outlook.com.
