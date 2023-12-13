@@ -81,5 +81,4 @@ The purpose of this database is to centralize data systems for efficient event m
 - It changes the background color of cell according to the cost.
 <img width="772" alt="PowerBI_EventManagement_CF" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/3c749bef-b12d-4cda-b9cd-dcc3bd4bd47a">
 
-
-
+For more details and queries please contact on ashutosh.raval@outlook.com
