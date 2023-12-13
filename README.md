@@ -77,7 +77,7 @@ The purpose of this database is to centralize data systems for efficient event m
 - The Columnn sets the status according the actual cost and planned cost of an equipment
 <img width="943" alt="PowerBI_EventManagement_CalcColumn" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/1dccce4a-a98a-4d5d-ad64-85a48cd19c70">
 
-**Conditonal formating **
+**Conditonal formating**
 - It changes the background color of cell according to the cost.
 <img width="772" alt="PowerBI_EventManagement_CF" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/3c749bef-b12d-4cda-b9cd-dcc3bd4bd47a">
 
