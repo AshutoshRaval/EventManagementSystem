@@ -70,7 +70,7 @@ The purpose of this database is to centralize data systems for efficient event m
 <img width="647" alt="PowerBI_EventManagement_DF png " src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/e83b1218-1e3d-4b7d-9738-ac7fa31a32bf">
 
 **DAX Formula**
-- The formula gets the type of employee associated with the show
+- The formula gets the type of equipments associated with the show
 <img width="851" alt="PowerBI_EventManagement_DAX" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/2190f8b8-2db4-4ef9-a277-c8c8090a5e95">
 
 **Calculated Column**
