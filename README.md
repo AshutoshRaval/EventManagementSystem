@@ -60,6 +60,9 @@ The purpose of this database is to centralize data systems for efficient event m
 5) Dynamic filtering using the silcers which as associated with multiple columns in the various section of database
 6) The Card visual give you and idea about the shows and Total and estimated cost associated with it.
 
+
+<img width="644" alt="PowerBI_EventManagement" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/278fad12-7579-42a5-845c-f57172deeeaa">
+
    
 
 
