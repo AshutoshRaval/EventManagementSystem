@@ -69,15 +69,15 @@ The purpose of this database is to centralize data systems for efficient event m
 <img width="647" alt="PowerBI_EventManagement_DF png " src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/e83b1218-1e3d-4b7d-9738-ac7fa31a32bf">
 
 **DAX Formula**
-The formula gets the type of employee associated with the show
+- The formula gets the type of employee associated with the show
 <img width="851" alt="PowerBI_EventManagement_DAX" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/2190f8b8-2db4-4ef9-a277-c8c8090a5e95">
 
 **Calculated Column**
-The Columnn sets the status according the actual cost and planned cost of an equipment
+- The Columnn sets the status according the actual cost and planned cost of an equipment
 <img width="943" alt="PowerBI_EventManagement_CalcColumn" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/1dccce4a-a98a-4d5d-ad64-85a48cd19c70">
 
 **Conditonal formating **
-It changes the background color of cell according to the cost.
+- It changes the background color of cell according to the cost.
 <img width="772" alt="PowerBI_EventManagement_CF" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/3c749bef-b12d-4cda-b9cd-dcc3bd4bd47a">
 
 
