@@ -63,6 +63,7 @@ The purpose of this database is to centralize data systems for efficient event m
 **Below are the snapshots of the powerBI report**
 
 **Dashboard**
+</br>
 <img width="644" alt="PowerBI_EventManagement" src="https://github.com/AshutoshRaval/EventManagementSystem/assets/122703876/278fad12-7579-42a5-845c-f57172deeeaa">
 
 **Dynamic Filtering using slicers**
