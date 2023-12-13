@@ -13,4 +13,7 @@ The purpose of this database is to centralize data systems for efficient event m
 Operational Efficiency: Aims to optimize operational convenience for event orchestration.
 Meticulous Planning: Aims to ensure meticulous planning and execution of events.
 
-
+**Tools Used**
+1) MS SQL Server Management Studio
+2) PowerBI
+3) Lucid Chart
