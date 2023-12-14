@@ -21,7 +21,7 @@ The purpose of this database is to centralize data systems for efficient event m
 **Highlights**
 1) Customized Views
 2) Table Level level check Function
-3) Column level check
+3) Check Constrains
 4) stored procedures
 5) Cursors
 6) Column encryption
